@@ -1,7 +1,7 @@
 {
   "name": "angular5",
   "version": "1.0.0",
-  "description": "A practice Angular5 project",
+  "description": "Working on an Angular 5 project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
